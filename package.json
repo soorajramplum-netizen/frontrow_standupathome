@@ -1,19 +1,26 @@
 {
-  "name": "crowdwork-scaffold",
+  "name": "crowdwork",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "astryx": "node node_modules/@astryxdesign/cli/clients/cli/bin/astryx.mjs"
   },
   "dependencies": {
+    "@astryxdesign/core": "^0.7.17",
+    "@astryxdesign/theme-butter": "^0.7.17",
+    "@heroicons/react": "^2.2.0",
+    "@huggingface/transformers": "^4.3.2",
+    "@stylexjs/stylex": "^0.19.2",
     "next": "16.4.6",
     "react": "19.3.0",
     "react-dom": "19.3.0"
   },
   "devDependencies": {
+    "@astryxdesign/cli": "^0.7.17",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",

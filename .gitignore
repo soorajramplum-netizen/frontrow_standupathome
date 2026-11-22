@@ -39,3 +39,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# project
+!.env.example
+data/raw/
+data/*.log
+__pycache__/
+data/sources/
+
+# build-only data (scrapes, big CSVs, pool.jsonl): stays on this computer
+data/

@@ -1,0 +1,10 @@
+// Written by `astryx experimental theme editor show sticker` after every build of themes/sticker/; do not edit it here. Change the theme with the editor. 
+
+/** @type {import('@astryxdesign/cli/authoring').ThemeDoc} */
+export default {
+  type: 'theme',
+  name: "sticker",
+  displayName: "sticker",
+  description: "The sticker theme, made with the theme editor (themes/sticker/).",
+  maintained: false,
+};

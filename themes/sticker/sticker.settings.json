@@ -1,0 +1,107 @@
+{
+  "name": "sticker",
+  "like": "butter",
+  "mode": "both",
+  "settings": [
+    {
+      "thing": "accent",
+      "value": "#d61f69",
+      "source": "dial"
+    },
+    {
+      "thing": "--color-background-body",
+      "value": "#f7f1e6",
+      "source": "token",
+      "mode": "light"
+    },
+    {
+      "thing": "border",
+      "value": "3px solid light-dark(#ffffff, var(--color-border))",
+      "source": "property",
+      "on": "card"
+    },
+    {
+      "thing": "corners",
+      "value": "pill",
+      "source": "dial",
+      "on": "button"
+    },
+    {
+      "thing": "border",
+      "value": "2px solid light-dark(#2a261d, #f7f1e6)",
+      "source": "property",
+      "on": "button"
+    },
+    {
+      "thing": "font",
+      "value": "Sofia Sans",
+      "source": "dial",
+      "on": "body"
+    },
+    {
+      "thing": "font",
+      "value": "Bowlby One SC",
+      "source": "dial",
+      "on": "heading"
+    },
+    {
+      "thing": "box-shadow",
+      "value": "5px 6px 0 light-dark(#2a261d, #000000)",
+      "source": "property",
+      "on": "card"
+    },
+    {
+      "thing": "--color-skeleton",
+      "value": "#ddd6c6",
+      "source": "token",
+      "mode": "light"
+    },
+    {
+      "thing": "box-shadow",
+      "value": "4px 5px 0 light-dark(#2a261d, #000000)",
+      "source": "property",
+      "on": "clickable-card"
+    },
+    {
+      "thing": "border",
+      "value": "3px solid light-dark(#ffffff, var(--color-border))",
+      "source": "property",
+      "on": "clickable-card"
+    },
+    {
+      "thing": "corners",
+      "value": "18px",
+      "source": "dial",
+      "on": "card"
+    },
+    {
+      "thing": "corners",
+      "value": "18px",
+      "source": "dial",
+      "on": "clickable-card"
+    },
+    {
+      "thing": "--color-background-surface",
+      "value": "#f7f1e6",
+      "source": "token",
+      "mode": "light"
+    },
+    {
+      "thing": "--color-text-accent",
+      "value": "#b8145a",
+      "source": "token",
+      "mode": "light"
+    },
+    {
+      "thing": "--color-background-yellow",
+      "value": "#c6f25a",
+      "source": "token",
+      "mode": "light"
+    }
+  ],
+  "lifted": [
+    "button variant:secondary border",
+    "top-nav-item selected:selected color"
+  ],
+  "palette": "06a5ef6e84d607de91ef63ddd2e5e47ada6bc951a33fff5ddeb9cfd65a1ccf8c"
+}

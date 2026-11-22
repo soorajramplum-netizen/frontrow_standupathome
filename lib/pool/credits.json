@@ -1,0 +1,32 @@
+[
+ {
+  "name": "JokeAPI",
+  "url": "https://v2.jokeapi.dev",
+  "license": "MIT"
+ },
+ {
+  "name": "icanhazdadjoke",
+  "url": "https://icanhazdadjoke.com",
+  "license": "Free API"
+ },
+ {
+  "name": "Official Joke API",
+  "url": "https://github.com/15Dkatz/official_joke_api",
+  "license": "MIT"
+ },
+ {
+  "name": "One Million Reddit Jokes (SocialGrep)",
+  "url": "https://huggingface.co/datasets/SocialGrep/one-million-reddit-jokes",
+  "license": "CC BY 4.0"
+ },
+ {
+  "name": "humor-chains (ZSvedic)",
+  "url": "https://huggingface.co/datasets/ZSvedic/humor-chains",
+  "license": "CC BY 4.0"
+ },
+ {
+  "name": "Wikiquote: House M.D.",
+  "url": "https://en.wikiquote.org/wiki/House_(TV_series)",
+  "license": "CC BY-SA 4.0"
+ }
+]
